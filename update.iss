@@ -23,7 +23,7 @@ DisableProgramGroupPage=yes
 LicenseFile=
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
-OutputDir=C:\Users\Gabul\Downloads\Output
+OutputDir=C:\Users\bubi\Downloads\Output
 OutputBaseFilename=update
 SetupIconFile=D:\CodeBlocksProjets\update\icons\icon.ico
 Compression=lzma
