@@ -94,7 +94,7 @@ int main(void)
 
     printf("Installation nouvelle version\n");
 
-    lancement_programmme("C:/ProgramData/Framboise/framboise.exe", NULL, SW_SHOW);
+    lancement_programmme("C:/ProgramData/novetat/novetat.exe", NULL, SW_SHOW);
 
     return EXIT_SUCCESS;
 }
